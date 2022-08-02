@@ -1,2 +1,10 @@
-
 *.DS_Store
+*.pyc
+Birnn_Transformer/ncc_data/
+*.log
+Birnn_Transformer/build/
+*.out
+Birnn_Transformer/ncc/data/tools/token_block_utils_fast.cpython-36m-x86_64-linux-gnu.so
+Birnn_Transformer/ncc/data/tools/data_utils_fast.cpython-36m-x86_64-linux-gnu.so
+Birnn_Transformer/ncc/libnat.cpython-36m-x86_64-linux-gnu.so
+Birnn_Transformer/ncc/libbleu.cpython-36m-x86_64-linux-gnu.so
